@@ -1,4 +1,4 @@
-# Demo Chatbot
+# Doc Chatbot
 
 This application demonstrates how to use OpenAI, Langchain, Pinecone, and NextJS to build a
 chatbot that can answer questions on your own documents based on augmented retrieval generation.
